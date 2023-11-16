@@ -4039,7 +4039,7 @@ footer .menu-item-has-children {
       overflow: hidden;
       display: block;
       opacity: 0;
-      background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), #F8F5F3, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
+      /* background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), #F8F5F3, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)); */
       transform: translateY(5px);
       transition: height 0s ease 1s, opacity 0.35s ease-in-out, transform 0.35s ease-in-out; } }
     @media (min-width: 1024px) and (min-width: 1366px) {
